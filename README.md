@@ -47,16 +47,16 @@ JoyTTS is an end-to-end spoken chatbot that combines large language models (LLM)
 参考音频
 </td>
 <td width="25%">
-
-https://github.com/user-attachments/assets/2fa5d07d-a6f0-4daf-ba39-057996fffa05
+    
+https://github.com/user-attachments/assets/c7b1c703-3513-44a6-91a6-24729ae2c652
 </td>
 <td width="25%">
 
-https://github.com/user-attachments/assets/23235b6c-7f38-47a7-a48a-765e98c938db
+https://github.com/user-attachments/assets/284acc8c-f15f-41ef-9af2-05d6aba70692
 </td>
 <td width="25%">
 
-https://github.com/user-attachments/assets/127592dd-e4dc-4fdb-9aa5-4f8063d25252
+https://github.com/user-attachments/assets/46a9e2b4-aabf-46ea-99b2-b41bccd1b683
 </td>
 </tr>
 <tr>
@@ -65,15 +65,15 @@ https://github.com/user-attachments/assets/127592dd-e4dc-4fdb-9aa5-4f8063d25252
 </td>
 <td width="25%">
 
-https://github.com/user-attachments/assets/349b67c5-ef93-462e-8e7d-3e8f76c54ef7
+https://github.com/user-attachments/assets/56ac6536-72b9-4e93-819d-136f091c0b04
 </td>
 <td width="25%">
 
-https://github.com/user-attachments/assets/afb16ba1-9c90-45ba-9dc6-b4b8173019d4
+https://github.com/user-attachments/assets/7d4057f5-d139-4055-bc04-f081632b452b
 </td>
 <td width="25%">
 
-https://github.com/user-attachments/assets/da696932-8f87-4832-be50-886962fe8608
+https://github.com/user-attachments/assets/b3a1fc21-73f3-444a-8fe9-67f98f4b1a2c
 </td>
 </tr>
 <tr>
@@ -81,16 +81,16 @@ https://github.com/user-attachments/assets/da696932-8f87-4832-be50-886962fe8608
 “中国的全称是什么”
 </td>
 <td width="25%">
-
-https://github.com/user-attachments/assets/33f0c58d-59c9-4a57-8016-c0cb88165fbd
+    
+https://github.com/user-attachments/assets/0e8bce5b-0a70-4e5b-9010-46baa0c0cdd3
 </td>
 <td width="25%">
 
-https://github.com/user-attachments/assets/5fbb03f3-fa2f-4f3d-a6f3-a341c05980c9
+https://github.com/user-attachments/assets/051c3c14-f261-4c97-b281-95c80eb409c5
 </td>
 <td width="25%">
 
-https://github.com/user-attachments/assets/c82e850b-e755-4146-8fb1-07b35b1dcb36
+https://github.com/user-attachments/assets/f58ba707-86cd-48cf-916e-dde6217e83a4
 </td>
 </tr>
 <tr>
@@ -99,15 +99,15 @@ https://github.com/user-attachments/assets/c82e850b-e755-4146-8fb1-07b35b1dcb36
 </td>
 <td width="25%">
 
-https://github.com/user-attachments/assets/cedeb3a0-a307-48df-b1b9-61539357c201
+https://github.com/user-attachments/assets/79418095-470e-4b16-830c-9ff835df6852
 </td>
 <td width="25%">
 
-https://github.com/user-attachments/assets/467a337c-373f-45aa-8e5e-b97cb543221f
+https://github.com/user-attachments/assets/38d5db81-2077-47d5-8cf2-45c8911349ae
 </td>
 <td width="25%">
 
-https://github.com/user-attachments/assets/9981dfff-3a6b-43d9-a5b5-1a92bfb54d55
+https://github.com/user-attachments/assets/bdaa784e-2419-4620-a94d-be87cbb79c7f
 </td>
 </tr>
 </table>
@@ -115,7 +115,7 @@ https://github.com/user-attachments/assets/9981dfff-3a6b-43d9-a5b5-1a92bfb54d55
 
 ### 💻 Results on SEED test-zh
 
-|             Model             | sm $\uparrow$ | wer $\downarrow$ |
+|             Model             | SS $\uparrow$ | WER $\downarrow$ |
 | :---------------------------: | :------: | :----: |
 |     gpt-sovits        |  0.55  | 5.13 |
 |   cosyvoice2  |   **0.748**   |  **1.45**  |
