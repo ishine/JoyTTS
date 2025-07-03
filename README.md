@@ -170,7 +170,7 @@ python gradio_demo.py
 #### 1. Prepare conversation data for LLM-Chat
 <details>
   <summary>
-    <b>example (normalized_data.json) with 1 samples.</b>
+    <b>example (normalized_data.json) with 1 sample.</b>
   </summary>
 
 ```
