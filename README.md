@@ -17,7 +17,7 @@
 
 ## 📖 Introduction
 
-JoyTTS is an end-to-end spoken chatbot that combines large language models (LLM) with text-to-speech (TTS) technology, featuring voice cloning capabilities. This project is built upon the open-source MiniCPM-o and CosyVoice2 models and trained on 2000 hours of conversational data. We have also provided the complete training code to facilitate further development and optimization by the community. On the testing machine seed-tts-zh, it achieves a SM (Similarity Measure) score of 73 and a WER (Word Error Rate) of 5.
+JoyTTS is an end-to-end spoken chatbot that combines large language models (LLM) with text-to-speech (TTS) technology, featuring voice cloning capabilities. This project is built upon the open-source MiniCPM-o and CosyVoice2 models and trained on 2000 hours of conversational data. We have also provided the complete training code to facilitate further development and optimization by the community. On the testing machine seed-tts-zh, it achieves a SS (speaker similarity) score of 0.73 and a WER (Word Error Rate) of 5.09.
 
 
 ### 🧳 Framework
@@ -118,7 +118,7 @@ https://github.com/user-attachments/assets/9981dfff-3a6b-43d9-a5b5-1a92bfb54d55
 |             Model             | sm $\uparrow$ | wer $\downarrow$ |
 | :---------------------------: | :------: | :----: |
 |     gpt-sovits        |  0.55  | 5.13 |
-|   cosyvoice2  |   **0.74**   |  **2.47**  |
+|   cosyvoice2  |   **0.748**   |  **1.45**  |
 |     JoyTTS        |  0.73  | 5.09 |
 
 

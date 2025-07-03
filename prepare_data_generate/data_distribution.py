@@ -17,7 +17,7 @@ use_llmlabel=False
 
 gen_save_file = "llmanswer_uselabel" if use_llmlabel else "llmanswer"
 # data_name = "generated_chat_0.4M_augment"
-data_root = "/media/cfs/zhoufangru/workspace/agent/data/llm/"
+data_root = "../../data/llm/"
 
 text_token_len_dict = {}
 for data_name in data_name_list:

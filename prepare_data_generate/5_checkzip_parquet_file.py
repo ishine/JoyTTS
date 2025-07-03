@@ -54,7 +54,7 @@ if __name__ == "__main__":
     data_name = "generated_chat_0.4M_augment"
     num_utts_per_parquet=4000 if data_name.endswith('_augment') else 1000
 
-    data_root = "/media/cfs/zhoufangru/workspace/agent/data/llm"
+    data_root = "../../data/llm"
     # mode_list = ['train','eval']
     mode_list = ['train']
     

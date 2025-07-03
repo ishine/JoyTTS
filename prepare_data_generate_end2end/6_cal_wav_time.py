@@ -19,7 +19,7 @@ def read_conversation(data_file):
 
 if __name__ == "__main__":
     llmanswer_file = "llmanswer_uselabel"
-    data_root = "/media/cfs/zhoufangru/workspace/agent/data/llm"
+    data_root = "../../data/llm"
     
     data_name = "RedGPT-main"
     mode = 'train'

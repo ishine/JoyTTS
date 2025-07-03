@@ -1,7 +1,7 @@
 import os
 import json
 
-data_root = "/media/cfs/zhoufangru/workspace/agent/data/llm/llmanswer"
+data_root = "../../data/llm/llmanswer"
 eval_txt = os.path.join(data_root, 'eval.txt')
 lines = open(eval_txt).readlines()
 

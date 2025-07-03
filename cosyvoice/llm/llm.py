@@ -298,19 +298,6 @@ class Qwen2LM(TransformerLM):
         torch.nn.Module.__init__(self)
 
         self.llm_projctor = nn.Linear(3584, llm_output_size)
-        # self.chatsystem = AutoModel.from_pretrained(chat_path, trust_remote_code=True) #OOM
-
-        # chat_path = "/mnt/afs/zhoufangru/agent/end2end/pretrained_models/MiniCPM-o-2_6"
-        # if chat_path != '':
-
-            # from prepare_data_sever.prepare_llmanswer_offline import postprocess
-            # self.chatsystem = chatsystem
-            # self.postprocess = postprocess
-
-            # self.chatsystem = AutoModel.from_pretrained(chat_path, trust_remote_code=True,
-            #         attn_implementation='sdpa', torch_dtype=torch.bfloat16) # sdpa or flash_attention_2, no eager
-            # self.tokenizer = AutoTokenizer.from_pretrained(chat_path, trust_remote_code=True)
-
 
         self.llm_input_size = llm_input_size
         self.llm_output_size = llm_output_size

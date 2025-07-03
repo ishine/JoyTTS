@@ -170,7 +170,7 @@ def get_answer(data_file, save_path):
 
 chatsystem = AgentChat()
 if __name__ == '__main__':
-    data_root = "/mnt/afs/zhoufangru/agent/data/llm/RedGPT-main"
+    data_root = "../../data/llm/RedGPT-main"
     data_file = os.path.join(data_root, "normalized_data.json")
     executor = ThreadPoolExecutor(max_workers=8)
 
