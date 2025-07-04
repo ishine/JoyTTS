@@ -117,9 +117,10 @@ https://github.com/user-attachments/assets/bdaa784e-2419-4620-a94d-be87cbb79c7f
 
 |             Model             | SS $\uparrow$ | WER $\downarrow$ |
 | :---------------------------: | :------: | :----: |
-|     gpt-sovits        |  0.55  | 5.13 |
-|   cosyvoice2  |   **0.748**   |  **1.45**  |
-|     JoyTTS        |  0.73  | 5.09 |
+|     gpt-sovits     |  0.55  | 5.13 |
+|     cosyvoice2     |   **0.748**   |  **1.45**  |
+|     Minicpm-o      |  0.57  | 7.13 |
+|     JoyTTS         |  0.73  | 5.09 |
 
 
 ## ⚙️ Installation
