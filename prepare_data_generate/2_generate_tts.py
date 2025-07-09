@@ -204,6 +204,9 @@ if __name__ == '__main__':
     save_wav_path = os.path.join(data_root, "llmanswer", data_name, "wav")
     if not os.path.exists(save_wav_path):
         os.makedirs(save_wav_path)
+    save_wavinfo_path = os.path.join(data_root, "llmanswer", data_name, "wavinfo")
+    if not os.path.exists(save_wavinfo_path):
+        os.makedirs(save_wavinfo_path)
     utt2wav, utt2text, utts, utts_num = load_prompt_info()
 
     get_token(data_file, data_name)

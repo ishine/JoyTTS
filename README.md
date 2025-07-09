@@ -132,6 +132,7 @@ conda create -n JoyTTS -y python=3.10
 conda activate JoyTTS
 conda install -y -c conda-forge pynini==2.1.5
 pip install -r requirements_JoyTTS.txt -i https://mirrors.aliyun.com/pypi/simple/ --trusted-host=mirrors.aliyun.com
+cp third_party/deepspeed/elasticity/elastic_agent.py $conda_envs/JoyTTS/lib/python3.10/site-packages/deepspeed/elasticity/elastic_agent.py
 ```
 
 ### 2. Model download
