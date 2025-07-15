@@ -1,7 +1,7 @@
 <h1 align='center'>JoyTTS: LLM-based Spoken Chatbot With Voice Cloning</h1>
 
 <div align='center'>
-    <a href='https://github.com/zhoufangru' target='_blank'>Zhou Fangru</a> 
+    <a href='https://github.com/zhoufangru' target='_blank'>Fangru Zhou</a> 
     <a href='https://github.com/zhaojun060708' target='_blank'>Jun Zhao</a> 
     Guoxin Wang
 </div>
